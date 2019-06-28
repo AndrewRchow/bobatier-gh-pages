@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "abc7985d46527cf6583b",
+    "revision": "f848f0bf13a312777742",
     "url": "/bobatier-gh-pages/static/css/main.8a3e1a32.chunk.css"
   },
   {
-    "revision": "abc7985d46527cf6583b",
-    "url": "/bobatier-gh-pages/static/js/main.abc7985d.chunk.js"
+    "revision": "f848f0bf13a312777742",
+    "url": "/bobatier-gh-pages/static/js/main.f848f0bf.chunk.js"
   },
   {
     "revision": "f37f5b8d1c129bceb64d",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/bobatier-gh-pages/static/js/runtime~main.a8e77c4e.js"
   },
   {
-    "revision": "d753564557491e828a8de206f8173d4b",
+    "revision": "17afff3b018255f65f4b6071bdce3f12",
     "url": "/bobatier-gh-pages/index.html"
   }
 ];
